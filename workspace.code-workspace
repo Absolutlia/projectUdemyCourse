@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\how-to-learn\\how-to-learn"
+		},
+		{
+			"path": "..\\Mesto"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"code-runner.clearPreviousOutput": true,
+		"code-runner.runInTerminal": true,
+		"liveServer.settings.multiRootWorkspaceName": "Mesto"
+	}
+}
